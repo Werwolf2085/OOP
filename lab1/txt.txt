@@ -1,1 +1,0 @@
-Banan(name=Banan, info=yelow)
